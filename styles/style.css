@@ -399,7 +399,7 @@ width: 380px;
   #footer .footer-list{
     position: absolute;
     top: 45px;
-    right: 40%;
+    right: 38%;
     text-align: right;
   }
 
@@ -438,7 +438,7 @@ width: 380px;
   }
   #footer .footer-social ul li a svg{
     color: white;
-    font-size: 25px;
+    font-size: 40px;
   }
   
  
