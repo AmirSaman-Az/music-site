@@ -11,7 +11,7 @@
 
 }
 body{
-    background-color: red;
+    background:linear-gradient(90deg, #080C27 0%, #212541 100%);
 }
     body,input,button {
     font-family: vazir;
